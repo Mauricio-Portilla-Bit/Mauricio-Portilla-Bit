@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Mauricio-Portilla-Bit
+- 👀 I’m interested in Physics, AI and Hardware
