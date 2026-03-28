@@ -14,7 +14,7 @@
 | **Physics** | Thermodynamics, Classical Mechanics, & Physical Simulations 🌌 |
 | **Machine Learning** | Physics-Informed Neural Networks (PINNs) & SciML 🤖 |
 | **Data Science** | Vector Embeddings & Geospatial Intelligence 🛰️ |
-
+| **Computer Science** | Energy Efficient Computing  💻|
 ---
 
 ### **Technical Stack** 🛠️
@@ -26,8 +26,6 @@
 
 #### **Artificial Intelligence**
 * **Frameworks:** `PyTorch`, `JAX`, `TensorFlow`, `Scikit-Learn`.
-* **Specialized:** `Computer Vision`, `Natural Language Processing`, `Time Series`.
-
 ---
 
 ### **Current Focus** 🚀
@@ -37,6 +35,6 @@
 
 ---
 
-**📍 Mexico City** | `Optimization` | `Thermodynamics` | `Scalability`
+**Traits** | `Focus` | `Efficiency` | `Sustainability`
 
 ---
