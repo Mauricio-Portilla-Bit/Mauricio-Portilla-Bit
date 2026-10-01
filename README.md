@@ -1,40 +1,27 @@
-# Physics Engineer | Data Scientist ⚛️
+# Mauricio Portilla
 
-**Bridging the gap between theoretical physics, scalable AI, and high-performance computing.**
+Physics engineer and data scientist. I work where physics, machine learning, and high-performance computing overlap, mostly on problems where theory and real data have to agree.
 
----
+## Interests
 
-### **Theoretical Foundations & Passions** 🧠
-👋 Hi, I’m @Mauricio-Portilla-Bit, I focus on the mathematical structures that govern both the physical and digital worlds. My work is driven by the intersection of empirical data and formal theory.
+- **Mathematics:** calculus of variations, optimization, linear algebra
+- **Information theory:** entropy, signal processing, stochastic processes
+- **Physics:** thermodynamics, classical mechanics, physical simulation
+- **Machine learning:** physics-informed neural networks (PINNs), scientific ML
+- **Data science:** vector embeddings, geospatial analysis
+- **Computer science:** energy-efficient computing
 
-| Field | Core Interests |
-| :--- | :--- |
-| **Mathematics** | Calculus of Variations, Optimization, & Linear Algebra 📐 |
-| **Information Theory** | Entropy, Signal Processing, & Stochastic Processes 📡 |
-| **Physics** | Thermodynamics, Classical Mechanics, & Physical Simulations 🌌 |
-| **Machine Learning** | Physics-Informed Neural Networks (PINNs) & SciML 🤖 |
-| **Data Science** | Vector Embeddings & Geospatial Intelligence 🛰️ |
-| **Computer Science** | Energy Efficient Computing  💻|
----
+## Currently working on
 
-### **Technical Stack** 🛠️
+- **VectorBusiness:** a B2B platform that uses satellite imagery and vector embeddings to analyze markets.
+- **Scientific ML:** models that build mathematical and physical constraints into deep learning.
+- **HPC:** optimizing matrix multiplication and in-memory computing for large-scale simulations.
 
-#### **Programming & Systems**
-* **Languages:** `Python` (Scientific Stack), `Rust` (High-performance), `SQL`, `C++`.
-* **Infrastructure:** `Docker`, `Kubernetes`, `PostgreSQL`, `Linux/Unix`.
-* **Hardware:** `ESP32`, `Edge AI`, `Drones/Robotics`.
+## Stack
 
-#### **Artificial Intelligence**
-* **Frameworks:** `PyTorch`, `JAX`, `TensorFlow`, `Scikit-Learn`.
----
+**Languages:** Python (scientific stack), Rust, C++, SQL
+**ML:** PyTorch, JAX, TensorFlow, scikit-learn
+**Infrastructure:** Docker, Kubernetes, PostgreSQL, Linux
+**Hardware:** ESP32, edge AI, drones and robotics
 
-### **Current Focus** 🚀
-* **VectorBusiness:** Architecting a B2B platform utilizing satellite imagery and vector embeddings to decode complex market dynamics.
-* **Scientific ML:** Implementing models where mathematical constraints meet deep learning.
-* **High-Performance Computing:** Optimizing matrix multiplications and in-memory computing for large-scale simulations.
-
----
-
-**Traits** | `Focus` | `Efficiency` | `Sustainability`
-
----
+I care about focused, efficient, and sustainable software: doing more with less compute.
